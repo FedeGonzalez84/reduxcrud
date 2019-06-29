@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 3,
+      "nombre": "Pastel de Peras",
+      "precio": "35"
+    },
+    {
+      "id": 4,
+      "nombre": "Pastel de Zanahorias",
+      "precio": "45"
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "nombre": "Pastel de Fresas",
+      "precio": "40"
+    },
+    {
+      "id": 7,
+      "nombre": "Torta de Frambuesas",
+      "precio": "700"
+    },
+    {
+      "id": 8,
+      "nombre": "Torta de queso",
+      "precio": "650"
+    },
+    {
+      "nombre": "Pastel de ceresa",
+      "precio": "456",
+      "id": 9
+    }
+  ]
+}
